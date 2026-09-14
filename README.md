@@ -7,6 +7,7 @@ This project analyzes IPL 2025 batting and bowling performance data using Micros
 The project demonstrates practical SQL skills through data cleaning, exploratory data analysis, aggregations, CTEs, CASE statements, and window functions.
 
 ----Objectives----
+
 Analyze IPL 2025 batting and bowling performance.
 Identify top-performing batsmen and bowlers.
 Compare player and team performance.
@@ -30,6 +31,7 @@ Player performance metrics
 Team-related performance information
 
 ----Analysis Performed----
+
 1. Data Cleaning
 Checked for missing values.
 Removed unnecessary spaces using TRIM().
