@@ -1,4 +1,4 @@
-IPL 2025 SQL Analysis
+----IPL 2025 SQL Analysis----
 
 Project Overview
 
@@ -6,7 +6,7 @@ This project analyzes IPL 2025 batting and bowling performance data using Micros
 
 The project demonstrates practical SQL skills through data cleaning, exploratory data analysis, aggregations, CTEs, CASE statements, and window functions.
 
-Objectives
+----Objectives----
 Analyze IPL 2025 batting and bowling performance.
 Identify top-performing batsmen and bowlers.
 Compare player and team performance.
@@ -20,7 +20,7 @@ T-SQL
 SQL Server Management Studio (SSMS)
 CSV Dataset
 
-Dataset
+----Dataset----
 
 The project uses IPL 2025 datasets containing:
 
@@ -29,7 +29,7 @@ Bowling statistics
 Player performance metrics
 Team-related performance information
 
-Analysis Performed
+----Analysis Performed----
 1. Data Cleaning
 Checked for missing values.
 Removed unnecessary spaces using TRIM().
@@ -38,7 +38,7 @@ Validated data types and values.
 Checked for duplicate or inconsistent records.
 2. Exploratory Data Analysis
 
-Performed analysis to understand:
+----Performed analysis to understand:----
 
 Total players
 Top run scorers
@@ -49,7 +49,7 @@ Best bowling economy
 Player performance distribution
 3. Advanced SQL Analysis
 
-Used SQL concepts including:
+----Used SQL concepts including:----
 
 SELECT
 WHERE
@@ -64,7 +64,7 @@ RANK()
 DENSE_RANK()
 ROW_NUMBER()
 
-Key Insights
+----Key Insights----
 
 The analysis helps identify:
 
